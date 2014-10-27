@@ -38,7 +38,7 @@ Setup required [Java 1.6](http://www.oracle.com/technetwork/java/javase/download
   ./gradlew clean connectedAndroidTest
   ```
 
-##You can also fire your test in [IntelliJ IDEA 14 EAP](https://www.jetbrains.com/idea/nextversion/)
+##You can also fire your test in [IntelliJ IDEA 14](https://www.jetbrains.com/idea/nextversion/)
 
 Before importing project to Intellij install plugin [Android Studio Unit Test](https://github.com/evant/android-studio-unit-test-plugin)
 
