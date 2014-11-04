@@ -78,6 +78,7 @@ dependencies {
     testCompile files('lib/robolectric-2.4-SNAPSHOT-jar-with-dependencies.jar')
     testCompile 'org.mockito:mockito-all:1.9.5'
     testCompile 'com.squareup:fest-android:1.0.+'
+    testCompile 'com.googlecode.catch-exception:catch-exception:1.2.0'
 }
 
 tasks.findByName("assembleDebug").dependsOn("testDebugClasses")
