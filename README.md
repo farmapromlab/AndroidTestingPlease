@@ -1,6 +1,8 @@
 #AndroidTestingPlease
 [![Build Status](https://travis-ci.org/farmapromlab/AndroidTestingPlease.svg?branch=master)](http://travis-ci.org/farmapromlab/AndroidTestingPlease)
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidTestingPlease-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/1080)
+
 AndroidTestingPlease is an Android project that uses Robolectric and Espresso for testing and Gradle to build. Project uses several jars:
 - espresso-1.1.jar
 - testrunner-1.1.jar
