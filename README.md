@@ -46,3 +46,17 @@ Before importing project to Intellij install plugin [Android Studio Unit Test](h
 
 ![alt tag](https://github.com/farmapromlab/AndroidTestingPlease/blob/master/images/android-studio-unit-test-plugin.png)
 
+##Where are tests results?
+
+1. Unit tests results
+
+  ```bash
+  ./IdeaProjects/AndroidTestingPlease/app/build/test-report/index.html
+  ```
+
+2. Espresso tests results
+
+  ```bash
+  ./IdeaProjects/AndroidTestingPlease/app/build/outputs/reports/androidTests/connected/index.html
+  ```
+
