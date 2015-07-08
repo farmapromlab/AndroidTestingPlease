@@ -1,4 +1,4 @@
-#AndroidTestingPlease
+#[DEPRECATED] AndroidTestingPlease
 [![Build Status](https://travis-ci.org/farmapromlab/AndroidTestingPlease.svg?branch=master)](http://travis-ci.org/farmapromlab/AndroidTestingPlease)
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidTestingPlease-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/1080)
